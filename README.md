@@ -13,9 +13,9 @@
 <br>
 
 <h4>
-  - 🔭 I’m currently working as a Fullstack Developer in ConnexOntario.<br>
-  - 🌱 Some of my projects include following technologies : ASP.NET C#, JavaScript, Wordpress, PHP, Xamarin forms. <br>
-  - 👯 I’m looking to collaborate on fullstack, penetration testing, reverse engineering and android projects.<br>
+  - 🔭 I’m currently working as a Fullstack Developer at ConnexOntario.<br>
+  - 🌱 Some of my projects include the following technologies: ASP.NET C#, JavaScript, WordPress, PHP, Xamarin Forms, .NET MAUI, React Native. <br>
+  - 👯 I’m looking to collaborate on full-stack, penetration testing, reverse engineering, and Android projects.<br>
   </h4>
 
 <!---
